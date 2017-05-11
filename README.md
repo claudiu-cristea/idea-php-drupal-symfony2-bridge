@@ -17,8 +17,8 @@ Changelog   | [CHANGELOG](CHANGELOG.md)
 ### Install
 * [Download plugin](https://plugins.jetbrains.com/plugin/7487) or install directly out of PhpStorm
 * Enabled Symfony Plugin per project:
- * Most platforms: File > Settings > Symfony Plugin.
- * macOs: PhpStorm > Preferences > Languages & Frameworks > PHP > Symfony
+  * Most platforms: File > Settings > Symfony Plugin.
+  * macOs: PhpStorm > Preferences > Languages & Frameworks > PHP > Symfony
 * Install [Php Annotation](http://plugins.jetbrains.com/plugin/7320) plugin to enjoy all the annotation stuff
 * Plugin needs a valid PhpStorm indexer, use "File > Invalidate Caches / Restart" if something crazy is going on
 
